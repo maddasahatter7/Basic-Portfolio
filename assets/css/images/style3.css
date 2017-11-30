@@ -1,0 +1,146 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/07/DYT_Gold_Desktop_v2.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  }
+
+  header {
+    background:#4aaaa5;
+    color: white;
+    font-size: 28px;
+    float: left;
+  }
+
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #4aaaa5;
+    border: #cccccc;
+  }
+  h2 {
+   font-size: 15px;
+   float: right;
+   margin-right: 100px;
+   margin-top: 10px;
+   color: #777777
+  }
+
+  h3 {
+    font-size: 15px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #777777
+
+  }
+
+  h4 {
+    font-size: 15px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #777777
+  }
+
+  h5 {
+      background-color: white;
+      color: #4aaaa5;
+      margin-top: 50px;
+  }
+
+  #Portfolio {
+    float: left;
+    background: #ffffff;
+    height: 400px;
+    width: 650px;
+    margin-top: 40px;
+    border: 20px;
+    position: relative;
+    
+  }
+
+  #Hangman{
+    float: left;
+    height: 10px;
+    width: 10px;
+    position: absolute;
+  }
+  
+  #RPG Game{
+    float: left;
+    height: 10px;
+    width: 10px;
+  }
+  
+  #Trivia Game{
+    float: left;
+    height: 200px;
+    width: 200px;
+  }
+ 
+  #Rutgers Info Widget{
+    float: left;
+    height: 10px;
+    width: 10px;
+  }
+  
+  #Rock Paper Scissors {
+   float: left;
+   height: 10px;
+   width: 10px;
+
+  }
+
+  p {
+    
+    font-size: 12px;
+  }
+
+  div.container {
+    display:inline-block;
+  }
+
+  #connect-with-me {
+    float: right;
+    padding: 20px;
+    margin-top: 20px;
+    width: 270px;
+    height: 240px;
+    background: #ffffff;
+    border: #dddddd;
+    color: #4aaaa5;
+    font-size: 35px;
+    text-align: center;
+    margin-right: 20px;
+    
+      }
+    
+    #facebook,
+    #linkedin,
+    #github {
+    height: 70px;
+    width: 70px;
+    float: left;
+    margin-left: 20px;
+    
+          
+    footer {
+    font-size: 15px; 
+    color: #777777;
+        background: #666666;
+        padding: 20px;
+        margin-bottom: 0px;
+        text-align: center;
+        position: fixed: bottom:0;left:0;right:0;height:30px;
+    }
+  
